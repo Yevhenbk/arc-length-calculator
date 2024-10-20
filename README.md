@@ -38,4 +38,4 @@ Longitud del recorrido: 15.1234 metros
 
 Additionally, the function's graph will be displayed to visualize the profile.
 
-![Plot Image]([path/to/your/image.png](https://github.com/Yevhenbk/arc-length-calculator/blob/main/arc_length_plot.png))
+![Plot Image](https://github.com/Yevhenbk/arc-length-calculator/blob/main/arc_length_plot.png)
